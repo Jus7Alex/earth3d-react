@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with React Three Fiber
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses three @react-three/fiber (https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) and @react-three/drei (https://npm.io/package/@react-three/drei).
 
 ## Available Scripts
 
